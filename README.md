@@ -22,30 +22,22 @@ I'm a software engineer and a student at ESTSB. I am a beginner in Machine Learn
 - I'm a big fan of coding challenges and competitive programming!
 
 ## 🔧 Tools and Technologies
-- Android
-- Arduino
-- Bootstrap
-- C
-- C++
-- CSS3
-- Docker
-- Firebase
-- Git
-- HTML5
-- Illustrator
-- Java
-- JavaScript
-- Kotlin
+- Web Scraping
+- Python
 - Linux
 - MongoDB
 - MySQL
-- Oracle
 - Pinecone
-- Python
+- Android
+- AWS(S3 , Lambda )
+- GCP
+- C++
+- Docker
+- Java
+- JavaScript
+- Kotlin
 - Realtime databases (Firebase, MongoDB)
 - SQLite
 - Web Development (HTML, CSS, PHP)
-- Web Scraping
-
 ## 🤝 Supportc  
 - You can support me by following me on social media and sharing my work. Thanks for your support!
