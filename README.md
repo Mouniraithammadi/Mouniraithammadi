@@ -39,5 +39,11 @@ I'm a software engineer and a student at ESTSB. I am a beginner in Machine Learn
 - Realtime databases (Firebase, MongoDB)
 - SQLite
 - Web Development (HTML, CSS, PHP)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mouniraithammadi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mouniraithammadi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mouniraithammadi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## [![](https://visitcount.itsvg.in/api?id=MOUNIR&label=Profile%20Views&color=1&icon=2&pretty=true)](https://visitcount.itsvg.in)
 ## 🤝 Supportc  
 - You can support me by following me on social media and sharing my work. Thanks for your support!
