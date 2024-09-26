@@ -1,6 +1,6 @@
 # Hi there, I'm Mounir Aithammadi! 👋
 
-I'm a software engineer and a student at ESTSB. I am a beginner in Machine Learning (ML) but an expert in Python, Java, Kotlin, Web Development (HTML, CSS, PHP), JavaScript, and SQL frameworks like MySQL, Oracle, SQLite, and Realtime databases like Firebase, MongoDB, and Pinecone. I also have experience in Mobile Development using Android Studio with Java or Kotlin, and expertise in Web Scraping.
+I'm a software engineer and a student at ESTSB. I am a beginner in Machine Learning (ML) but an expert in Python, Java, Kotlin, Web Development (HTML, CSS, PHP), JavaScript, and SQL frameworks like MySQL, Oracle, SQLite, and real-time databases like Firebase, MongoDB, and Pinecone. I also have experience in Mobile Development using Android Studio with Java or Kotlin, and expertise in Web Scraping.
 
 ## 🌱 I’m currently learning
 - Machine Learning (ML) Frameworks
@@ -23,5 +23,5 @@ I'm a software engineer and a student at ESTSB. I am a beginner in Machine Learn
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mouniraithammadi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## [![](https://visitcount.itsvg.in/api?id=MOUNIR&label=Profile%20Views&color=1&icon=2&pretty=true)](https://visitcount.itsvg.in)
-## 🤝 Supportc  
+## 🤝 Support  
 - You can support me by following me on social media and sharing my work. Thanks for your support!
